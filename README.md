@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OtienoKeith
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning web#
+- 🌱 I’m currently learning web3
 - 💞️ I’m looking to collaborate on web related projects
 - 📫 How to reach me https://www.linkedin.com/in/keith-otieno/
 
