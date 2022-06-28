@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OtienoKeith
+- 👋 Hi, I’m Keith Otieno
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning web3
 - 💞️ I’m looking to collaborate on web related projects
