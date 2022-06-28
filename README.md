@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Keith Otieno
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning web3
-- 💞️ I’m looking to collaborate on web related projects
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning machine learning 
+- 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me https://www.linkedin.com/in/keith-otieno/
 
 <!---
