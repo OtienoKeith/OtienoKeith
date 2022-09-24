@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Keith Otieno
-- 👀 I’m interested in data analytics
+- 👀 I’m interested in software development and data science
 - 🌱 I’m currently learning machine learning 
 - 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me https://www.linkedin.com/in/keith-otieno/
